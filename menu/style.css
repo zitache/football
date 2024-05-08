@@ -1,0 +1,41 @@
+/* Styles de la page de drift */
+body {
+    background-color: #4854bde1;
+    font-family: Verdana, sans-serif;
+    /* Police Verdana par défaut */
+    color: #000000;
+    /* Texte noir par défaut */
+    list-style-type: none;
+
+}
+p {list-style-type: none;
+
+}
+
+h1 {
+    color: #000080;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+h2 {
+    color: #3c6bc9ed;
+    margin-left: 15px;
+    list-style-type: none;
+
+}
+
+a {
+    color: #130080;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+
+a:hover {
+    color: #ffffff;
+    border-bottom: 0px solid rgb(8, 0, 255);
+    text-align: center;
+    list-style-type: none;
+}
